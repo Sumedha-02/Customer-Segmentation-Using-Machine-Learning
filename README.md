@@ -32,7 +32,7 @@ Customer segmentation is a crucial strategy in marketing that involves categoriz
 Describe the steps to set up the project locally. Include code examples and dependencies installation instructions.
 
 ```shell
-git clone https://github.com/your-username/customer-segmentation.git
+git clone https://github.com/Sumedha-02/Customer-Segmentation-Using-Machine-Learning.git
 cd customer-segmentation
 pip install -r requirements.txt
 jupyter notebook segmentation.ipynb
